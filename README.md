@@ -12,6 +12,12 @@
     <img src="https://img.shields.io/github/contributors/Lyzev/WindowsReadMediaInfo" alt="GitHub contributors"/>
 </div>
 
+## Archived Project
+
+This project is no longer actively maintained. 
+
+For a maintained version of this functionality, please consider using [@Redstonecrafter0](https://github.com/Redstonecrafter0)'s project: [MediaPlayerInfo](https://github.com/Redstonecrafter0/MediaPlayerInfo).
+
 ## Usage
 
 [![](https://jitpack.io/v/Lyzev/WindowsReadMediaInfo.svg?label=Release)](https://jitpack.io/#Lyzev/WindowsReadMediaInfo)
